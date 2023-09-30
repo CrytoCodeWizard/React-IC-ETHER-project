@@ -86,7 +86,3 @@ Here is one way to acquire tokens and NFTs on the [Sepolia](https://www.alchemy.
 - Reduce the latency of update calls by passing the `--emulator` flag to `dfx start`.
 - Install a Motoko package by running `npx ic-mops add <package-name>`. Here is a [list of available packages](https://mops.one/).
 - Split your frontend and backend console output by running `npm run frontend` and `npm run backend` in separate terminals.
-
----
-
-Contributions are welcome! Please check out the [contributor guidelines](https://github.com/dfinity/ic-eth-starter/blob/main/.github/CONTRIBUTING.md) for more information.
